@@ -49,6 +49,11 @@ The final interactive dashboard includes the following features:
 
 For more details about the "Bike Buyer" dataset, refer to the [dataset ](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
 
+
+## Acknowledgments
+This project was completed by following the instructions and guidance provided in the YouTube channel by [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst). Thank you for the insightful tutorials and practical data analysis techniques.
+
+
 ## Getting Started
 
 To explore the dashboard and examine the data cleaning process, follow these steps:
@@ -57,3 +62,5 @@ To explore the dashboard and examine the data cleaning process, follow these ste
 2. Open the Excel file named "Bike_Buyer_Dashboard_Final.xlsx."
 3. Navigate through the different tabs to view the data cleaning steps, pivot tables, and the interactive dashboard.
 
+## Contact
+If you have any questions or suggestions regarding this project, feel free to contact me at [khalidhani1996@gmail.com](mailto:khalidhani1996@gmail.com).
