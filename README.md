@@ -27,13 +27,13 @@ To ensure data quality and consistency, the following data cleaning steps were p
 Three pivot tables were generated to gain insights from the cleaned data:
 
 1. **Average Income and Bike Purchase**: Pivot table and chart showing the average income of bike buyers and non-buyers.
-![Average Income Chart](1.png)
+![Average Income Chart](1.PNG)
 
 2. **Bike Purchase and Commute Distance**: Pivot table and chart depicting the relationship between bike purchase and commute distance.
-![Commute Distance Chart](2.png)
+![Commute Distance Chart](2.PNG)
 
 3. **Bike Purchase and Age Brackets**: Pivot table and chart displaying the correlation between bike purchase and age brackets.
-![Age Brackets Chart](3.png)
+![Age Brackets Chart](3.PNG)
 
 ## Interactive Dashboard
 
@@ -43,7 +43,7 @@ The final interactive dashboard includes the following features:
 - Additional tools for further analysis based on marital status, region, and education.
 - Enhanced graphs and insights for a more comprehensive understanding of the data.
 
-![Interactive Dashboard](dashboard.png)
+![Interactive Dashboard](dashboard.PNG)
 
 ## Dataset Information
 
