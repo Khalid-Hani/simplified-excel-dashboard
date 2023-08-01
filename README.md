@@ -43,7 +43,7 @@ The final interactive dashboard includes the following features:
 - Additional tools for further analysis based on marital status, region, and education.
 - Enhanced graphs and insights for a more comprehensive understanding of the data.
 
-![Interactive Dashboard](dashboard.PNG)
+![Interactive Dashboard](dashboard1.jpg)
 
 ## Dataset Information
 
