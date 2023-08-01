@@ -54,6 +54,6 @@ For more details about the "Bike Buyer" dataset, refer to the [dataset ](https:/
 To explore the dashboard and examine the data cleaning process, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the Excel file named "Bike_Buyer_Dashboard.xlsx."
+2. Open the Excel file named "Bike_Buyer_Dashboard_Final.xlsx."
 3. Navigate through the different tabs to view the data cleaning steps, pivot tables, and the interactive dashboard.
 
